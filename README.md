@@ -7,7 +7,7 @@ collection of python methods and tools as a libary for video/image quality analy
 
 first you need:
 
-* python3 (>=3.6)
+* python3 (>=3.9)
 * pip3
 * ffmpeg
 * poetry (`pip3 install --user poetry`)
