@@ -9,3 +9,13 @@ videos
 docs/.doctrees/
 docs/_sources/
 docs/objects.inv
+
+# output by CLI tools
+# brisque/nique
+reports
+# cuts
+results
+# siti
+siti_reports
+# psnr
+psnr
